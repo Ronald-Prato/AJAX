@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d45fb32.chunk.css",
+    "main.js": "/static/js/main.0ffe0df9.chunk.js",
+    "main.js.map": "/static/js/main.0ffe0df9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.c6d260ee.chunk.css": "/static/css/2.c6d260ee.chunk.css",
+    "static/js/2.1b7e2490.chunk.js": "/static/js/2.1b7e2490.chunk.js",
+    "static/js/2.1b7e2490.chunk.js.map": "/static/js/2.1b7e2490.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d91f01a838b623ecb04dbeb62963e523.js": "/precache-manifest.d91f01a838b623ecb04dbeb62963e523.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c6d260ee.chunk.css.map": "/static/css/2.c6d260ee.chunk.css.map",
+    "static/css/main.0d45fb32.chunk.css.map": "/static/css/main.0d45fb32.chunk.css.map",
+    "static/media/Ajax.svg": "/static/media/Ajax.e30f957f.svg",
+    "static/media/Amazon.svg": "/static/media/Amazon.07b3a1b1.svg",
+    "static/media/Azure.svg": "/static/media/Azure.792b0e25.svg",
+    "static/media/Cloudera.svg": "/static/media/Cloudera.931151fb.svg",
+    "static/media/Lambda.svg": "/static/media/Lambda.600d33b0.svg",
+    "static/media/LogoJustReact.svg": "/static/media/LogoJustReact.986372d6.svg",
+    "static/media/LogoWoombat.svg": "/static/media/LogoWoombat.eb3c72f8.svg",
+    "static/media/People-asking.svg": "/static/media/People-asking.0548796f.svg",
+    "static/media/User-icon-girl.svg": "/static/media/User-icon-girl.2d0b5a3b.svg",
+    "static/media/User-icon.svg": "/static/media/User-icon.7f7dd246.svg",
+    "static/media/bg.svg": "/static/media/bg.517cd79b.svg",
+    "static/media/pika.mp3": "/static/media/pika.252356ac.mp3"
+  }
+}
